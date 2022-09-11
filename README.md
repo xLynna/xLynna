@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xLynna, a 2nd year Maths & CompSci student from Imperial.
-- 👀 I’m interested in Cryptography and Algorithm Development.
+- 👀 I’m interested in Cryptography and Quantum Algorithm Development.
 - 🌱 I’m currently learning Software Engineering Design method.
 
 Nice to have you here reading my profile:)
